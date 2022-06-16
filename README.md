@@ -1,18 +1,18 @@
-# Example Project Documentation Guideline
+# Project Documentation Guideline
 
-> Include here a brief description of the project, what technologies are used etc.
+The Hangman project is a simple game  which enables users to make guesses of missing characters in a randomly chosen word.
+
 
 ## Milestone 1
 
 - Answer some of these questions in the next few bullet points. What have you built? What technologies have you used? Why have you used those?
+- The Hangman project uses the OOP approach to transfer data withing the various functions in the defined class.
 
-- Example: The FastAPI framework allows for fast and easy construction of APIs and is combined with pydantic, which is used to assert the data types of all incoming data to allow for easier processing later on. The server is ran locally using uvicorn, a library for ASGI server implementation.
-  
+- Example: The FastAPI framework allows for fast and easy construction of APIs and is combined with pydantic, which is used to assert the data types of all incoming data to allow for easier processing later on.
+- 
 ```python
-"""Insert your code here"""
+"""pip install fastapi"""
 ```
-
-> Insert an image/screenshot of what you have built so far here.
 
 ## Milestone 2
 
